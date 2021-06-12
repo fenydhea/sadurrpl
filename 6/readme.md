@@ -1,0 +1,3 @@
+NAMA : Feny Dhea
+NIM  : 1811500104
+KELOMPOK : TI6J
